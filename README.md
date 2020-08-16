@@ -1,4 +1,4 @@
-# Storme Viewer
+# Storm Viewer
 
 User taps on the tableview and opens in the detail view controller.
 
